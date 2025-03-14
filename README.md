@@ -1,0 +1,1 @@
+This project aims to convert numerical values entered for a book's evaluation into a star rating system using Python. In the other branch, colors have been added to the stars, but this change has not been applied to the main branch.
